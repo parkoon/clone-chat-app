@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./App.css";
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 
 // Components
 import ChatList from "./components/ChatList";
@@ -11,6 +11,9 @@ function App() {
   return (
     <div className="App">
       <Switch>
+        <Route exact path="/">
+          <Redirect to="/list" />
+        </Route>
         <Route exact path="/list">
           <ChatList transition={"let-to-right"} />
         </Route>
