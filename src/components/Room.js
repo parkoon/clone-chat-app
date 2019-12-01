@@ -9,7 +9,6 @@ import { StyledRoom } from "./styled/StyledRoom";
 import Header from "./Header";
 import Message from "./Message";
 import Input from "./Input";
-import Button from "./Button";
 import UploadImage from "./uploadImage";
 
 // Custom hooks
@@ -69,7 +68,6 @@ const Room = props => {
         </div>
         <footer className="room__footer">
           <Input />
-          <Button icon={<i className="fas fa-paper-plane" />} />
         </footer>
       </StyledRoom>
     </>
