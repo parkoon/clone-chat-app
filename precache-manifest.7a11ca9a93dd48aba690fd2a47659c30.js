@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95916c93551cef1864b7fe6ffeaeb7ba",
+    "revision": "695604ba74bddcee1b7a436e55ab042f",
     "url": "/clone-chat-app/index.html"
   },
   {
-    "revision": "21d36f466ad5a695dc7c",
+    "revision": "1512d7d444b4b92b27ae",
     "url": "/clone-chat-app/static/css/main.dbf4a26d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clone-chat-app/static/js/2.8cd91add.chunk.js"
   },
   {
-    "revision": "21d36f466ad5a695dc7c",
-    "url": "/clone-chat-app/static/js/main.bd3cdde7.chunk.js"
+    "revision": "1512d7d444b4b92b27ae",
+    "url": "/clone-chat-app/static/js/main.55f3cd97.chunk.js"
   },
   {
     "revision": "8659b7e1ba40da01e6fb",
