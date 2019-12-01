@@ -138,7 +138,7 @@ export default function(state = INITIAL_STATE, action) {
             ...state.chats[index],
             messages: [...state.chats[index].messages, action.message]
           },
-          ...state.chats.slice(index + 1, state.chats.length - 1)
+          ...state.chats.slice(index + 1, state.chats.length)
         ]
       };
     }
