@@ -10,7 +10,7 @@ export const StyledChatList = styled.div`
 
 export const StyledChat = styled.div`
   display: grid;
-  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-columns: 57px 1fr 52px;
   grid-gap: 12px;
   align-items: center;
   padding: 0 12px;
