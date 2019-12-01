@@ -44,7 +44,7 @@ const ChatList = () => {
             <Chat
               avater={chat.avatar}
               name={chat.target}
-              lastMessage={getLastMessage(chat.messages)}
+              lastMessage={chat.messages[chat.messages.length - 1].content}
               updatedAt={chat.updatedAt}
               unread={getUnreadCount(chat.messages)}
             />
