@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clone-chat-app/static/css/main.dbf4a26d.chunk.css",
-    "main.js": "/clone-chat-app/static/js/main.ba453214.chunk.js",
-    "main.js.map": "/clone-chat-app/static/js/main.ba453214.chunk.js.map",
+    "main.js": "/clone-chat-app/static/js/main.a26ff045.chunk.js",
+    "main.js.map": "/clone-chat-app/static/js/main.a26ff045.chunk.js.map",
     "runtime-main.js": "/clone-chat-app/static/js/runtime-main.f2727d0a.js",
     "runtime-main.js.map": "/clone-chat-app/static/js/runtime-main.f2727d0a.js.map",
-    "static/js/2.aaaa9616.chunk.js": "/clone-chat-app/static/js/2.aaaa9616.chunk.js",
-    "static/js/2.aaaa9616.chunk.js.map": "/clone-chat-app/static/js/2.aaaa9616.chunk.js.map",
+    "static/js/2.12c37257.chunk.js": "/clone-chat-app/static/js/2.12c37257.chunk.js",
+    "static/js/2.12c37257.chunk.js.map": "/clone-chat-app/static/js/2.12c37257.chunk.js.map",
     "index.html": "/clone-chat-app/index.html",
-    "precache-manifest.de348b4ae57089747d05f7ed84efc5e8.js": "/clone-chat-app/precache-manifest.de348b4ae57089747d05f7ed84efc5e8.js",
+    "precache-manifest.a1f1ff9f2d7401bb67a15b546589fb8b.js": "/clone-chat-app/precache-manifest.a1f1ff9f2d7401bb67a15b546589fb8b.js",
     "service-worker.js": "/clone-chat-app/service-worker.js",
     "static/css/main.dbf4a26d.chunk.css.map": "/clone-chat-app/static/css/main.dbf4a26d.chunk.css.map",
     "static/media/avatar-1.JPG": "/clone-chat-app/static/media/avatar-1.a5173934.JPG",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f2727d0a.js",
-    "static/js/2.aaaa9616.chunk.js",
+    "static/js/2.12c37257.chunk.js",
     "static/css/main.dbf4a26d.chunk.css",
-    "static/js/main.ba453214.chunk.js"
+    "static/js/main.a26ff045.chunk.js"
   ]
 }
