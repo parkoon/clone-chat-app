@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clone-chat-app/static/css/main.dbf4a26d.chunk.css",
+    "main.js": "/clone-chat-app/static/js/main.ba453214.chunk.js",
+    "main.js.map": "/clone-chat-app/static/js/main.ba453214.chunk.js.map",
+    "runtime-main.js": "/clone-chat-app/static/js/runtime-main.f2727d0a.js",
+    "runtime-main.js.map": "/clone-chat-app/static/js/runtime-main.f2727d0a.js.map",
+    "static/js/2.aaaa9616.chunk.js": "/clone-chat-app/static/js/2.aaaa9616.chunk.js",
+    "static/js/2.aaaa9616.chunk.js.map": "/clone-chat-app/static/js/2.aaaa9616.chunk.js.map",
+    "index.html": "/clone-chat-app/index.html",
+    "precache-manifest.de348b4ae57089747d05f7ed84efc5e8.js": "/clone-chat-app/precache-manifest.de348b4ae57089747d05f7ed84efc5e8.js",
+    "service-worker.js": "/clone-chat-app/service-worker.js",
+    "static/css/main.dbf4a26d.chunk.css.map": "/clone-chat-app/static/css/main.dbf4a26d.chunk.css.map",
+    "static/media/avatar-1.JPG": "/clone-chat-app/static/media/avatar-1.a5173934.JPG",
+    "static/media/avatar-2.JPG": "/clone-chat-app/static/media/avatar-2.d96d5caa.JPG",
+    "static/media/avatar-3.JPG": "/clone-chat-app/static/media/avatar-3.4ed9671c.JPG",
+    "static/media/avatar-4.JPG": "/clone-chat-app/static/media/avatar-4.401bc40d.JPG",
+    "static/media/avatar-6.JPG": "/clone-chat-app/static/media/avatar-6.2a345e57.JPG",
+    "static/media/avatar-7.JPG": "/clone-chat-app/static/media/avatar-7.41f908b6.JPG",
+    "static/media/upload-1.JPG": "/clone-chat-app/static/media/upload-1.dc6d3bb7.JPG",
+    "static/media/upload-2.JPG": "/clone-chat-app/static/media/upload-2.c5fc9ac4.JPG",
+    "static/media/upload-3.JPG": "/clone-chat-app/static/media/upload-3.a54fc437.JPG",
+    "static/media/upload-4.JPG": "/clone-chat-app/static/media/upload-4.bc75d343.JPG",
+    "static/media/upload-5.JPG": "/clone-chat-app/static/media/upload-5.f2549880.JPG",
+    "static/media/upload-6.JPG": "/clone-chat-app/static/media/upload-6.a6693df0.JPG",
+    "static/media/upload-7.JPG": "/clone-chat-app/static/media/upload-7.de476534.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2727d0a.js",
+    "static/js/2.aaaa9616.chunk.js",
+    "static/css/main.dbf4a26d.chunk.css",
+    "static/js/main.ba453214.chunk.js"
+  ]
+}
